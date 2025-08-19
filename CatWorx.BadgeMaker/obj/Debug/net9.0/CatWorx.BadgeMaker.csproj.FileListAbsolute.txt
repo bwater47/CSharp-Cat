@@ -1,0 +1,15 @@
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\bin\Debug\net9.0\CatWorx.BadgeMaker.exe
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\bin\Debug\net9.0\CatWorx.BadgeMaker.deps.json
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\bin\Debug\net9.0\CatWorx.BadgeMaker.runtimeconfig.json
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\bin\Debug\net9.0\CatWorx.BadgeMaker.dll
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\bin\Debug\net9.0\CatWorx.BadgeMaker.pdb
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\CatWorx.BadgeMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\CatWorx.BadgeMaker.AssemblyInfoInputs.cache
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\CatWorx.BadgeMaker.AssemblyInfo.cs
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\CatWorx.BadgeMaker.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\CatWorx.BadgeMaker.sourcelink.json
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\CatWorx.BadgeMaker.dll
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\refint\CatWorx.BadgeMaker.dll
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\CatWorx.BadgeMaker.pdb
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\CatWorx.BadgeMaker.genruntimeconfig.cache
+C:\Users\Administrator\Homework\CSharp-Cat\CatWorx.BadgeMaker\obj\Debug\net9.0\ref\CatWorx.BadgeMaker.dll
