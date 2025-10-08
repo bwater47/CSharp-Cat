@@ -8,10 +8,40 @@ namespace CatWorx.BadgeMaker
     static void Main(string[] args)
     {
 
-      List<string> employees = new List<string>() { "adam", "amy" };
+      // List<string> employees = new List<string>();
+      // // Collect user values until the value is an empty string
+      // while (true)
+      // {
+      //   Console.WriteLine("Please enter a name: ");
+      //   string input = Console.ReadLine() ?? "";
+      //   employees.Add(input);
 
-      employees.Add("barbara");
-      employees.Add("billy");
+      //   for (int i = 0; i < employees.Count; i++)
+      //   {
+      //     Console.WriteLine(employees[i]);
+      //   }
+      // }
+
+      // List<string> employees = new List<string>() { "adam", "amy", "barbara", "billy" };
+
+      // Console.WriteLine("Please enter a name: ");
+      // // Get a name from the console and assign it to a variable
+      // string input = Console.ReadLine() ?? "";
+      // employees.Add(input);
+      // for (int i = 0; i < employees.Count; i++)
+      // {
+      //   Console.WriteLine(employees[i]);
+      // }
+
+      // List<string> employees = new List<string>() { "adam", "amy" };
+
+      // employees.Add("barbara");
+      // employees.Add("billy");
+
+      // for (int i = 0; i < employees.Count; i++)
+      // {
+      //   Console.WriteLine(employees[i]);
+      // }
 
       // Dictionary<string, int> myScoreBoard = new Dictionary<string, int>();
 
