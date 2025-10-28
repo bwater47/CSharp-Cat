@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CatWorx.BadgeMaker
 {
@@ -36,15 +37,16 @@ namespace CatWorx.BadgeMaker
       for (int i = 0; i < employees.Count; i++)
       {
         string template = "{0,-10}\t{1,-20}\t{2}";
-        Console.WriteLine(String.Format(template, employees[i].GetId(), employees[i].GetFullName(), employees[i].GetPhotoUrl()));
+        Console.WriteLine(String.Format(template, employees[i].GetId(), employees[i].GetFullName(), employees[i].GetPhotoUrl(), employees[i].GetCompanyName()));
       }
     }
 
-    static void Main(string[] args)
+    async static Task Main(string[] args)
     {
       List<Employee> employees = GetEmployees();
       Util.PrintEmployees(employees);
       Util.MakeCSV(employees);
+      await Util.MakeBadges(employees);
     }
   }
 }
